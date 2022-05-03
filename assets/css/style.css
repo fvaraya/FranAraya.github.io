@@ -1,0 +1,54 @@
+.body * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.bg-dark {
+    margin: 0;
+}
+
+#proyectos {
+    padding-top: 12px;
+}
+
+.card-img {
+    padding-top: 25px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-footer{
+    padding: 15px;
+}
+
+.somos-text {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.form {
+    padding: 5px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.text-footer {
+    text-align: center;
+    padding-top: 3%;
+}
+
+.icon {
+    text-align: right;
+}
+
+#sobre mi {
+    padding-top: 15px;
+}
+
+#contacto {
+    padding-top: 15px;
+}
